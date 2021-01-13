@@ -1,1 +1,1 @@
-# Pinax Lessons Learned DevICT
+# Pinax Lessons Learned- DevICT
