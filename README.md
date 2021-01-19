@@ -15,7 +15,7 @@
 
 Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at DevICT [Lunch Talks](https://www.meetup.com/devict/events/275303517/) Wednesday, January 13, 2021 at 12:00 noon CST via Google Meetup.
  
-Slide Deck and Video Recording
+Slide Deck
 * [Original slide deck](https://docs.google.com/presentation/d/1oAGBBRBcbaBLUU57OjaCeXLRtiEe1Lf9XQBnKZfCiyg/edit?usp=sharing)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
