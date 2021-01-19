@@ -327,7 +327,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 15](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_15.jpg)
+![Slide 16](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_15.jpg)
 
 </td><td>
 
@@ -344,7 +344,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 16](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_16.jpg)
+![Slide 17](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_16.jpg)
 
 </td><td>
 
@@ -360,7 +360,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 17](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_17.jpg)
+![Slide 18](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_17.jpg)
 
 </td><td>
 
@@ -381,7 +381,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 18](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_18.jpg)
+![Slide 19](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_18.jpg)
 
 </td><td>
 
@@ -397,7 +397,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 19](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_19.jpg)
+![Slide 20](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_19.jpg)
 
 </td><td>
 
@@ -417,7 +417,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 20](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_20.jpg)
+![Slide 21](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_20.jpg)
 
 </td><td>
 
@@ -434,7 +434,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 21](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_21.jpg)
+![Slide 22](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_21.jpg)
 
 </td><td>
 
@@ -457,7 +457,7 @@ Around 28 apps were included and we notably dropped support for Python 2.7
 
 <tr><td width="30%">
 
-![Slide 22](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_22.jpg)
+![Slide 23](https://speakerd.s3.amazonaws.com/presentations/a1b7d9619ede4b67a0e5c531e47adc81/slide_22.jpg)
 
 </td><td>
 
