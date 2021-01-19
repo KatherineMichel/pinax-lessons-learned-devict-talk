@@ -32,7 +32,7 @@ Slide Deck
 - [How It Began](#how-it-began)
 - [Fast Forward: 2017](#fast-forward-2017)
 - [How It Was Going, 80 Project and Apps](#how-it-was-going-80-project-and-apps)
-- [How It Was Going, GitHub Organization, Global Docs, and Slack](#how-it-was-going-gitHub-organization-global-docs-and-slack)
+- [How It Was Going, GitHub Organization, Global Docs, and Slack](#how-it-was-going-github-organization-global-docs-and-slack)
 - [How It Was Going, Sustainability Lacking](#how-it-was-going-sustainability-lacking)
 - [Tribal Knowledge](#tribal-knowledge)
 - [Pinax Documentation](#pinax-documentation)
