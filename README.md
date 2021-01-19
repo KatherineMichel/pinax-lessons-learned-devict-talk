@@ -1,6 +1,6 @@
 # Pinax Lessons Learned- DevICT
 
-# Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Slides and Script Table of Contents](#slides-and-script-table-of-contents)
