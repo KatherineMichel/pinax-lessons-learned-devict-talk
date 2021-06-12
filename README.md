@@ -1,4 +1,4 @@
-# Pinax Lessons Learned- DevICT
+# Pinax Lessons Learned- DevICT Talk
 
 ## Table of Contents
 
